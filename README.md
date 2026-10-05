@@ -1,3 +1,8 @@
+## Fork / Adaption (wolke.toschke.de)
+
+Basiert auf dem AGPL-Projekt [Wacken2012/nextcloud-verein](https://github.com/Wacken2012/nextcloud-verein) (Branch/Tag develop bzw. v0.2.2-pre-release).
+Angepasst für Nextcloud 35 und PHP 8.5 für https://wolke.toschke.de (Versionssuffix `-nc35`).
+
 # 🤝 Nextcloud Vereins-App
 
 Eine moderne, benutzerfreundliche **Nextcloud-App zur Verwaltung von Vereinen, Verbänden und Organisationen**. Mit vollständiger Mitglieder- und Finanzverwaltung.
